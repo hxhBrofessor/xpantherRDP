@@ -2,7 +2,7 @@
 
 This script automates mouse clicks at a specified location when the "Microsoft Remote Desktop" application is running. The script checks if the application is running every 5 minutes (300 seconds) and performs a mouse click at the coordinates (100, 100) if the application is active.
 
-![files](./Images/xpanther.png)
+![files](./xpanther.png)
 
 ## Prerequisites
 
