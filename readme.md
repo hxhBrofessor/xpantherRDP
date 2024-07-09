@@ -55,3 +55,8 @@ For Windows:
 **Adjust the Sleep Interval:** The sleep interval can be changed by modifying the `time.sleep(300)` line. The current setting waits for 5 minutes (300 seconds) between checks.
 
 **Change Click Coordinates:** Modify the `(100, 100)` coordinates in the `click` function to change where the click occurs.
+
+***Disclaimer:***
+* This script requires you to click on the RDP session itself to work properly. It may not work if the RDP session is not in focus.
+* This script is somewhat janky and may not work perfectly 100% of the time.
+* The functionality on Windows may or may not work reliably. Use at your own discretion.
